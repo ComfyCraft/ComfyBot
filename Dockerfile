@@ -10,4 +10,4 @@ RUN npm install
 COPY . /usr/src/comfybot
 
 # Start
-CMD ["node", "index.js"]
+CMD ["node", "."]
